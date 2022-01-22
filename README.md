@@ -1,5 +1,5 @@
 # Hi! Eu sou o Isaias Santana dos Santos...  
-### É um prazer receber sua visita aqui no meu perfil, sinta-se a vontade qualquer coisa é só entrar em contato!
+### É um prazer receber sua visita, sinta-se a vontade qualquer coisa é só entrar em contato!
 
 <div align="center">
   <a href="https://github.com/IsaiasSantanaDosSantos">
