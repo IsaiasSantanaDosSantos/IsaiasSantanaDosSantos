@@ -23,10 +23,15 @@
   <img align="center" alt="Isaias-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   
   
+  
+  
   <img align="center" alt="Isaias-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Isaias-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  
-  
+  <img align="center" alt="Isaias-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+<!--   <img align="center" alt="Isaias-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> -->
+  <img align="center" alt="Isaias-WordPress" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
+
+  <!-- Site for download icons: https://devicon.dev/ -->                              
 </div>
   
 ##
