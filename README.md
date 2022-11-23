@@ -1,5 +1,5 @@
-# Hello! Eu sou o <strong>Isaias Santana dos Santos</strong>...  
-### É um prazer receber sua visita, sinta-se a vontade qualquer coisa é só entrar em contato!
+# Hello! I'm  <strong>Isaias Santana dos Santos</strong>...  
+### It is a pleasure to receive your visit, feel free to do anything just get in touch!
 
 <div align="center">
   <a href="https://github.com/IsaiasSantanaDosSantos">
