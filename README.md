@@ -1,6 +1,5 @@
 # Hello! I'm  <strong>Isaias Santana dos Santos</strong>...  
 ### It is a pleasure to receive your visit, feel free to do anything just get in touch!
-
 <hr>
 <p align="center">
   <a href="https://isaiassantana.com.br" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+a+front-end+Developer...;With+over+2+years+of+experience...;In+continuous+growth...;Three+years+ago...;I+transitioned+to+technology...;+And+now+I'm+enthusiastic+about...;Technologies+like+JavaScript,+HTML5...;CSS3,+Bootstrap,+WordPress,+React.js...;Among+others!&center=true&width=500&height=50&color=fff&pause=1000&size=22"></a>
