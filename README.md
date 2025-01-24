@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
 <br>
-# Hello! I'm  <strong>Isaias Santana dos Santos</strong>...  
-### It is a pleasure to receive your visit, feel free to do anything just get in touch!
+<h1>Hello! I'm  <strong>Isaias Santana dos Santos</strong>...</h1>   
+
+<h2>It is a pleasure to receive your visit, feel free to do anything just get in touch!</h2> 
 <hr>
 
 <p align="center">
@@ -84,7 +85,7 @@
  
 </div> 
 
-<p align="centre; width:100%; font-size; 30px"><b>Visitors Count</b></p>  
+<h3 align="centre; width:100%; font-size; 30px"><b>Visitors Count</b></h3>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IsaiasSantanaDosSantos}/count.svg" /></p> 
 
 <br>
