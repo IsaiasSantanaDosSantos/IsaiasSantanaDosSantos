@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
-<br>
 <h1>Hello! I'm  <strong>Isaias Santana dos Santos</strong>...</h1>   
 
 <h2>It is a pleasure to receive your visit, feel free to do anything just get in touch!</h2> 
