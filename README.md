@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
+<br>
 # Hello! I'm  <strong>Isaias Santana dos Santos</strong>...  
 ### It is a pleasure to receive your visit, feel free to do anything just get in touch!
 <hr>
@@ -82,3 +84,10 @@
  
 </div> 
 
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{IsaiasSantanaDosSantos}/count.svg" /></p> 
+
+<br>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
