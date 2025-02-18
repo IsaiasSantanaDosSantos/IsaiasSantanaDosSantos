@@ -84,7 +84,7 @@
  
 </div> 
 
-<h3 align="centre; width:100%; font-size; 30px"><b>Visitors Count</b></h3>  
+<h3 align="centre; width:100%; font-size; 30px"><b>Visitors Count (since the beginning of 2025)</b></h3>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IsaiasSantanaDosSantos}/count.svg" /></p> 
 
 <br>
