@@ -4,6 +4,7 @@
 <h2>It is a pleasure to receive your visit, feel free to do anything just get in touch!</h2> 
 <hr>
 
+
 <p align="center">
   <a href="https://isaiassantana.com.br" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+a+front-end+Developer...;With+over+3+years+of+experience...;In+continuous+growth...;Four+years+ago...;I+transitioned+to+technology...;+And+now+I'm+enthusiastic+about...;Technologies+like+JavaScript,+HTML5...;CSS3,+Bootstrap,+WordPress,+React.js...;Typescript,+Angular,+Ionic,+Webpack...;MySQL,+Firebase,+Node.js,+Vite.Js...;Among+others!&center=true&width=500&height=50&color=fff&pause=1000&size=22"></a>
 </p>
