@@ -33,8 +33,11 @@
 <td><img align="center" alt="Isaias-GitHub" height="30" width="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></td>
 <td><img align="center" alt="Isaias-Git" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
 <td><img align="center" alt="Isaias-Eslint" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" /></td>
-<td><img align="center" alt="Isaias-Webpack" height="30" width="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" /></td>
-<td><img align="center" alt="Isaias-Vitejs" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /></td>
+
+    <td><img align="center" alt="Isaias-Webpack" height="30" width="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" /></td>
+    
+</tr>
+<tr><td><img align="center" alt="Isaias-Vitejs" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /></td>
 <td><img align="center" alt="Isaias-Babel" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" /></td>
 <td><img align="center" alt="Isaias-npm" height="30" width="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></td>
 <td><img align="center" alt="Isaias-Filezilla" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" /></td>
