@@ -39,8 +39,8 @@
     <td><img align="center" alt="Isaias-Vitejs" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /></td>
     <td><img align="center" alt="Isaias-Babel" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" /></td>
     <td><img align="center" alt="Isaias-npm" height="30" width="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></td>
+    <td><img align="center" alt="Isaias-pnpm" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original-wordmark.svg" /></td>
     <td><img align="center" alt="Isaias-Filezilla" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" /></td>
-    <td><img align="center" alt="Isaias-Powershell" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></td>
 </tr>
 <tr>
     <td><img align="center" alt="Isaias-Insomnia" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" /></td>
@@ -54,6 +54,7 @@
     <!--  <td> <img align="center" alt="Isaias-WordPress" height="30" width="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></td> -->
     <td><img align="center" alt="Isaias-Vercel" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" /></td>
     <td><img align="center" alt="Isaias-Trello" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" /></td>
+    <td><img align="center" alt="Isaias-Powershell" height="30" width="40" margin="10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></td>
 
 <!-- Site for download icons: https://devicon.dev/ -->    
   
